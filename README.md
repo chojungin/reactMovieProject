@@ -21,6 +21,10 @@
     <td>react.js</td>
   </tr> 
   <tr>
+    <th>링크🔗</th>
+    <td>https://chojungin.github.io/react-beginner/</td>
+  </tr> 
+  <tr>
     <th>프로젝트 내용</th>
     <td>
       <b>API를 활용한 영화 소개 사이트</b><br>

@@ -1,4 +1,4 @@
-# 나의 첫번째 리액트 프로젝트
+# FIRST REACT PROJECT !
 <table>
   <tr>
     <th>개발 기간</th>

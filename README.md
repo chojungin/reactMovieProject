@@ -22,7 +22,7 @@
   </tr> 
   <tr>
     <th>링크🔗</th>
-    <td>https://chojungin.github.io/react-beginner/</td>
+    <td>https://chojungin.github.io/reactMovieProject</td>
   </tr> 
   <tr>
     <th>프로젝트 내용</th>

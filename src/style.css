@@ -1,0 +1,62 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #eee;
+}
+
+.count {
+    margin: 20px 0;
+}
+
+.container {
+    width: 80%;
+    margin: 30px auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: space-evenly;
+    align-items: center;
+}
+
+.MuiCard-root {
+    background-color: rgba(255,255,255,0.5);
+    display: flexbox;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.MuiCard-root:hover {
+    cursor: pointer;
+}
+
+.MuiCard-root:hover .link {
+    text-decoration: underline;
+}
+
+.MuiCardMedia-root {
+    float: left;
+    width: 240px;
+    box-sizing: border-box;
+}
+
+.MuiCardContent-root {
+    float: left;
+    width: 420px;
+    box-sizing: border-box;
+}
+
+.img {
+    display: block;
+    background-color: rgba(0,0,0,0.5);
+    width: 230px;
+    height: 345px;
+}
+
+.link {
+    text-decoration: none;
+    color: rgba(0,0,0,1);
+}

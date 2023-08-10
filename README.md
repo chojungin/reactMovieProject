@@ -1,4 +1,4 @@
-# FIRST REACT PROJECT !
+# reactMovieProject
 <table>
   <tr>
     <th>개발 기간</th>
